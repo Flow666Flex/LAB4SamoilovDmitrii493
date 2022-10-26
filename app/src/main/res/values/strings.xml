@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LAB4SamoilovDmitrii493</string>
+    <string name="tv_authorize">tv_authosize</string>
+    <string name="tv_username">tv_username</string>
+    <string name="tv_password">tv_password</string>
+    <string name="btn_register">btn_register</string>
+    <string name="btn_authorize">btn_authorize</string>
+</resources>
